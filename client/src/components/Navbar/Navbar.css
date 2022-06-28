@@ -1,0 +1,16 @@
+.navbar{
+    border-bottom: 1px red solid;
+    background-color: white;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    height: 10vh;
+}
+
+.logo{
+    
+    margin-left: 1%;
+    height:9.9vh;
+    width:auto;
+}
