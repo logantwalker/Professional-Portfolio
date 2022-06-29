@@ -16,7 +16,7 @@ export default function Home (props) {
                         <source src='https://i.imgur.com/fQNbEBE.mp4' type='video/mp4' />
                     </video>
 
-                    <video className='show-on-small' muted playsInline autoPlay loop>
+                    <video className='hide-on-med-and-up' muted playsInline autoPlay loop>
                         <source src='https://i.imgur.com/sMZcC2d.mp4' type='video/mp4' />
                     </video>
                     
