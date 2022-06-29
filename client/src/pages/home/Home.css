@@ -67,3 +67,27 @@
     height: 100vh;
     width: auto
 }
+
+@media (max-width: 600px){
+    .homepage-hero_svg-container img {
+        opacity: 0.4;
+        height: 100vw;
+        width: auto
+    }
+
+    .heroLogan{
+        position: absolute;
+        top: 25%;
+        right: 50%;
+
+        font-size: 1.7rem;
+        padding: 8px 24px;
+    }
+
+    .heroWalker{
+        position: absolute;
+        top: 25%;
+        left: 50%;
+        font-size: 1.7rem;
+    }
+}
