@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 .homepage-hero_video-container {
     position: relative;
     margin-top: 10vh;
