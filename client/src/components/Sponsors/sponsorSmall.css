@@ -1,0 +1,15 @@
+.sponsor{
+    padding: 1rem;
+    align-items: center;
+    background-color: black;
+    border-top: 2px solid red;
+}
+
+.sponsor-card{}
+
+
+
+.card{
+    height: 30vh;
+    padding: 24px !important;
+}

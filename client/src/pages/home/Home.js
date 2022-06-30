@@ -1,9 +1,12 @@
 import React from 'react';
 import { Parallax, Row, Col, Button, Carousel } from 'react-materialize';
+import SponsorSmall from '../../components/Sponsors/SponsorSmall';
 import Navbar from '../../components/Navbar/Navbar';
 import 'materialize-css';
 import './Home.css';
 import redSVG from './Assets/whiteLogo.svg';
+
+
 
 
 export default function Home (props) {
@@ -46,6 +49,8 @@ export default function Home (props) {
                         </Col>
                     </Row>
                 </div>
+                <SponsorSmall/>
+                
             </div>
         </React.Fragment>
     )
