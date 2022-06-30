@@ -43,7 +43,7 @@ export default function Home (props) {
                                 Logan Walker started riding motorcycles at age 5 on a Honda cr50. Not long after that, he was racing motocross in several championship series all across Georgia. 
                                 He raced motocross for almost 10 years before ultimately having to sell his race bike to buy his first car. 
                                 In late 2019, just after graduating from college at Georgia Tech, Logan was finally able to buy another bike - a 2019 Ninja 400! Just a few months later, he was taking his Ninja 400 to the track and was instantly hooked.
-                                In August 2021, he got his racing license and scored his first podium with WERA the next day. In addition to that, He also brought home 3rd place in the WERA National Sportsman Series Championship in the D superstock category and was promoted to an Expert Racing license. 
+                                In August 2021, he got his racing license and scored his first podium with WERA the next day. In addition to that, He also brought home 3rd place in the WERA National Sportsman Series Championship in the D superstock category and was promoted to an Expert Racing license at the end of the season. 
                                 Logan’s ultimate goal is to compete in the MotoAmerica Twins Cup category.
                             </div>
                         </Col>
